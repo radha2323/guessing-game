@@ -1,6 +1,7 @@
 //importing random module
 import random
 import time       //time module
+n=random.randrange(1,100)
 print("welcome to the number guessing game:")
 time.sleep(5)   // for delaying
 guess=int(input("guess a number:"))
