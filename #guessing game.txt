@@ -1,0 +1,6 @@
+#guessing game
+#basic project on python
+IN this guessing game we used concepts:
+1.modules like random and time
+2.loops
+3.conditinal statements
